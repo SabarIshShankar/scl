@@ -1,6 +1,6 @@
 const baseUrl =
   process.env.NODE_ENV === 'development'
-    ? 'https://NavyShimmeringTelephone.sabarishs19.repl.co/api'
+    ? 'https://csb-88zdx-9rkd50xcm-sabarish.vercel.app/api'
     : `https://${window.location.hostname}/api`;
 
 const methods = {
